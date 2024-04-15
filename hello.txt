@@ -1,8 +1,8 @@
 hello git.
 hello xiaolaji.
-<<<<<<< HEAD
-zailaiyici
+ilaiyici
 suibainsiugai
 suibian ni 
 yiqilaiwan
 hot-fix
+
