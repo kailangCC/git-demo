@@ -1,6 +1,12 @@
 hello git.
 hello xiaolaji.
+<<<<<<< HEAD
 zailaiyici
 suibainsiugai
 suibian ni 
 yiqilaiwan
+=======
+xiugaiyixia 
+xiugaiyixia
+
+>>>>>>> hot-fix
